@@ -1,7 +1,3 @@
-Certainly! Here's a description of a project that revolves around computing the Moore-Penrose pseudoinverse of a matrix using the Singular Value Decomposition (SVD):
-
----
-
 **Project Title**: Computing Moore-Penrose Pseudoinverse via Singular Value Decomposition
 
 **Objective**: Develop a computational tool to determine the Moore-Penrose pseudoinverse of a given matrix using the Singular Value Decomposition (SVD) method.
