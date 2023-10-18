@@ -8,7 +8,11 @@ The Moore-Penrose pseudoinverse is a generalization of the matrix inverse for no
 **Conclusion**:
 
 The Moore-Penrose pseudoinverse has a plethora of applications in various fields:
+
 **Machine Learning**: For solving the normal equations in linear regression.
+
 **Control Systems**: Designing feedback control systems.
+
 **Signal Processing**: De-noising and other preprocessing steps.
+
 **Numerical Analysis**: Solving systems of linear equations, especially overdetermined or underdetermined systems.
