@@ -13,4 +13,4 @@ The Moore-Penrose pseudoinverse has a plethora of applications in various fields
 - **Numerical Analysis**: Solving systems of linear equations, especially overdetermined or underdetermined systems.
 
 **Conclusion**:
-The ability to compute the Moore-Penrose pseudoinverse reliably using SVD forms the bedrock of various advanced applications across domains. This project ensures a robust and validated approach to achieve the same, providing a tool that is both valuable for academic understanding and practical applications.
+The ability to compute the Moore-Penrose pseudoinverse reliably using SVD forms the bedrock of various advanced applications across domains, includind machine learning.
