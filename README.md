@@ -13,6 +13,4 @@ The Moore-Penrose pseudoinverse has a plethora of applications in various fields
 
 **-Control Systems**: Designing feedback control systems.
 
-**-Signal Processing**: De-noising and other preprocessing steps.
-
 **-Numerical Analysis**: Solving systems of linear equations, especially overdetermined or underdetermined systems.
